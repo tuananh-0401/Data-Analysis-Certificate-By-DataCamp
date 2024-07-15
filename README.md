@@ -4,6 +4,7 @@ To get certified this candidate had to display that they have the knowledge, ski
 + Data Management
 + Visualization and Reporting
 We tested the candidate's skills rigorously through:
+
 **Timed assessments**
 Through a series of questions on a range of topics, we are able to establish that this individual has the basic knowledge required for a data analyst role. We make use of adaptive testing approaches to understand to a high degree of confidence the skill level of individuals who take the assessments.
 
